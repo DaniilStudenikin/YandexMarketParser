@@ -23,3 +23,9 @@ https://market.yandex.ru/api/resolve/?r=suggest:addRequestToSuggestHistory&r=sug
 ![img.png](img.png)
 ### Заголовки этого запроса
 ![img_1.png](img_1.png)
+
+
+
+# Регион
+
+![img_5.png](img_5.png)
